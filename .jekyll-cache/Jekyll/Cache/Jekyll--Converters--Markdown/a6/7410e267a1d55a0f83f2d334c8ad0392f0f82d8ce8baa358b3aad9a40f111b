@@ -1,0 +1,156 @@
+I"<h1 id="spring-2023-crdds-research-data-bootcamp">Spring 2023 CRDDS Research Data Bootcamp</h1>
+<p>Sponsored by the <a href="https://www.colorado.edu/crdds/">Center for Research Data and Digital Scholarship (CRDDS)</a></p>
+
+<h2 id="coordinators">Coordinators</h2>
+
+<p>Tim Dunn<br />
+Research Computing and Visualization Specialist<br />
+Center for Research Data and Digital Scholarship<br />
+University of Colorado Boulder Libraries</p>
+
+<p>Nickoal Eichmann-Kalwara<br />
+Digital Scholarship Librarian<br />
+Center for Research Data and Digital Scholarship<br />
+University of Colorado Boulder Libraries</p>
+
+<p>Matthew Murray<br />
+Data Librarian<br />
+Center for Research Data and Digital Scholarship<br />
+University of Colorado Boulder Libraries</p>
+
+<p>Liz Novosel<br />
+Computer Science, Mathematics and Social Sciences Librarian<br />
+University of Colorado Boulder Libraries</p>
+
+<p>Kim Popetz<br />
+Event and Outreach Coordinator<br />
+Center for Research Data and Digital Scholarship<br />
+University of Colorado Boulder Libraries</p>
+
+<p>Aditya (Adi) Ranganath (he/his)<br />
+Data Librarian<br />
+Center for Research Data and Digital Scholarship<br />
+University of Colorado Boulder Libraries<br />
+<a href="mailto:Aditya.Ranganath@colorado.edu">Aditya.Ranganath@colorado.edu</a></p>
+
+<h2 id="schedule">Schedule</h2>
+
+<h3 id="tuesday-may-16">Tuesday, May 16</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Content</th>
+      <th>Presenter(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00 to 10:25</td>
+      <td><a href="content/introduction.html">Welcome and Introduction</a></td>
+      <td>Adi Ranganath</td>
+    </tr>
+    <tr>
+      <td>10:30-12:00</td>
+      <td><a href="content/finding-data.html">Data Discovery and Ethics</a></td>
+      <td>Liz Novosel and Nickoal Eichmann-Kalwara</td>
+    </tr>
+    <tr>
+      <td>12:00-12:55</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00-2:25</td>
+      <td><a href="content/data_management.html">Data Management</a></td>
+      <td>Matthew Murray</td>
+    </tr>
+    <tr>
+      <td>2:30 to 3:30</td>
+      <td><a href="content/qualitative-data.html">Qualitative Data</a></td>
+      <td>Nickoal Eichmann-Kalwara</td>
+    </tr>
+    <tr>
+      <td>3:30 to 3:45</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3:45 to 4:45</td>
+      <td><a href="content/data-publishing-CU-scholar.html">Data Publishing and CU Scholar</a></td>
+      <td>Melissa Cantrell and Matthew Murray</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="wednesday-may-17">Wednesday, May 17</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Content</th>
+      <th>Presenter(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00 to 1:00</td>
+      <td><a href="content/data-analysis-in-R.html">Data Analysis in R</a></td>
+      <td>Scott Nordstrom</td>
+    </tr>
+    <tr>
+      <td>1:00 to 1:55</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2:00 to 4:30</td>
+      <td><a href="content/data-analysis-in-python.html">Python Foundations</a></td>
+      <td>Tim Dunn</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="thursday-may-18">Thursday, May 18</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Content</th>
+      <th>Presenters(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00 to 12:00</td>
+      <td><a href="content/data-analysis-in-python.html">Data Analysis in Python</a></td>
+      <td>Tim Dunn</td>
+    </tr>
+    <tr>
+      <td>12:00 to 12:55</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1:00 to 2:30</td>
+      <td><a href="content/git_github.html">GitHub and GitHub Pages</a></td>
+      <td>Phil White</td>
+    </tr>
+    <tr>
+      <td>2:45 to 3:00</td>
+      <td><a href="content/wrap-up.html">Wrap Up and Next Steps</a></td>
+      <td>Adi Ranganath</td>
+    </tr>
+    <tr>
+      <td>3:00 to 4:30</td>
+      <td>Optional Office Hours</td>
+      <td>CRDDS Team</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Actual schedule may vary depending on group needs; all times refer to Mountain Standard Time (MST)</em></p>
+:ET
