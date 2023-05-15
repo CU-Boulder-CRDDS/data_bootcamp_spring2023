@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python Foundations and Data Analysis
+title: Python
 has_children: true
 nav_order: 1.524
 ---
