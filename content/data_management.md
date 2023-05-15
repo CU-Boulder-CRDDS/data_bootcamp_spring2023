@@ -7,17 +7,11 @@ nav_order: 1.51
 
 # Data Management
 
-## Instructors
-Aditya (Adi) Ranganath (he/his)  
-Data Librarian  
+## Instructor
+Matthew Murray\
+Data Librarian\
 Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries  
-[Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
-
-Dylan Perkins\
-Associate Director of User Support\
-Center for Research Data and Digital Scholarship\
-University of Colorado Boulder Research Computing  
 
 ## Introduction
 

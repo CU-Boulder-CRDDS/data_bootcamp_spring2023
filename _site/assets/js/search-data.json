@@ -228,10 +228,10 @@
     "relUrl": "/content/data_management.html"
   },"38": {
     "doc": "Data Management",
-    "title": "Instructors",
-    "content": "Aditya (Adi) Ranganath (he/his) Data Librarian Center for Research Data and Digital Scholarship University of Colorado Boulder Libraries Aditya.Ranganath@colorado.edu . Dylan Perkins Associate Director of User Support Center for Research Data and Digital Scholarship University of Colorado Boulder Research Computing . ",
-    "url": "http://localhost:4000/data_bootcamp_2023/content/data_management.html#instructors",
-    "relUrl": "/content/data_management.html#instructors"
+    "title": "Instructor",
+    "content": "Matthew Murray Data Librarian Center for Research Data and Digital Scholarship University of Colorado Boulder Libraries . ",
+    "url": "http://localhost:4000/data_bootcamp_2023/content/data_management.html#instructor",
+    "relUrl": "/content/data_management.html#instructor"
   },"39": {
     "doc": "Data Management",
     "title": "Introduction",
