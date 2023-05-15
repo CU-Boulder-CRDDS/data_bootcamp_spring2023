@@ -5,7 +5,7 @@ has_children: true
 nav_order: 1.524
 ---
 
-# Data Analysis in Python
+# Python Foundations and Data Analysis
 
 ## Instructor
 Tim Dunn\
