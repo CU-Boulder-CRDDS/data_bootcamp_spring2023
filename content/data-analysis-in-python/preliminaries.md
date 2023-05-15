@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preliminaries
-parent: Data Analysis in Python
+parent: Python
 nav_order: 1
 has_children: false
 ---
