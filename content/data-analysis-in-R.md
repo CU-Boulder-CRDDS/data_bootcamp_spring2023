@@ -17,5 +17,3 @@ Statistical Consultant, Center for Research Data and Digital Scholarship
 
 This session provides a primer on using R and R Studio for data-based research. 
 
-<iframe src="data-analysis-in-R/nordstrom_R.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
-

@@ -13,4 +13,4 @@ For instructions on how to download R and R Studio, please see [here](https://ja
 
 ## Session data
 
-Before beginning the lesson, please [download](https://www.dropbox.com/sh/wv6yqtw98umsrto/AACwnspy4wR2ER6jI90YB2dra?dl=0) the data to a directory on your computer. 
+Before beginning the lesson, please [download](https://www.dropbox.com/scl/fo/t65ybpqo9gfkajo8op5aq/h?dl=0&rlkey=g48xgiyalmvx5rclmwamoqzwb) the data to a directory on your computer. Simply click the grey "Download" button at the top of the page. 
