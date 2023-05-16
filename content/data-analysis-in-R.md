@@ -9,13 +9,13 @@ nav_order: 1.523
 
 ## Instructor
 
-Aditya (Adi) Ranganath (he/his)  
-Data Librarian  
-Center for Research Data and Digital Scholarship  
-University of Colorado Boulder Libraries  
-[Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
+Scott Nordstrom\
+PhD Student, Ecology and Evolutionary Biology\
+Statistical Consultant, Center for Research Data and Digital Scholarship  
 
 ## Introduction
 
 This session provides a primer on using R and R Studio for data-based research. 
+
+<iframe src="data-analysis-in-R/nordstrom_R.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
