@@ -20,7 +20,7 @@ University of Colorado Boulder Libraries
 
 ## Session Synopsis
 
-This presentation will review strategies and resources that will help you to discover secondary research that is relevant to your research interests and needs. 
+This presentation will review strategies and resources that will help you to discover secondary research that is relevant to your research interests and needs, as well as use these datasets in an ethically informed manner. 
 
 ## Presentation
 

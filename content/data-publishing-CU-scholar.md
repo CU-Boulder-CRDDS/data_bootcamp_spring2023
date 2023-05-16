@@ -11,7 +11,12 @@ nav_order: 1.522
 
 Melissa Cantrell  
 Assistant Professor  
-Scholarly Communication Librarian
+Scholarly Communication Librarian\
+Center for Research Data and Digital Scholarship
+
+Matthew Murray\
+Data Librarian\
+Center for Research Data and Digital Scholarship
 
 
 ## Session Synopsis
