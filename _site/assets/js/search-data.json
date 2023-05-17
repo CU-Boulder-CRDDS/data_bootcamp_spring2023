@@ -433,7 +433,7 @@
   },"72": {
     "doc": "Preliminaries",
     "title": "Session data",
-    "content": "Before beginning the lesson, please download the data to a directory on your computer. ",
+    "content": "Before beginning the lesson, please download the data to a directory on your computer. Simply click the grey “Download” button at the top of the page. ",
     "url": "http://localhost:4000/data_bootcamp_spring2023/content/data-analysis-in-R/preliminaries.html#session-data",
     "relUrl": "/content/data-analysis-in-R/preliminaries.html#session-data"
   },"73": {
