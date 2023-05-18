@@ -47,7 +47,7 @@ University of Colorado Boulder Libraries
 | 10:00 to 10:25 | [Welcome and Introduction](content/introduction.html)|Adi Ranganath|
 | 10:30-12:00| [Data Discovery and Ethics](content/finding-data.html)| Liz Novosel and Nickoal Eichmann-Kalwara
 | 12:00-12:55| Break|
-| 1:00-2:25| [Data Management](content/data_management.html)| Matthew Murray
+| 1:00-2:25| [Data Management](content/data_management/2023-Spring-DataBootcamp-DataManagement.pdf)| Matthew Murray
 | 2:30 to 3:30| [Qualitative Data](content/qualitative-data.html)|Nickoal Eichmann-Kalwara
 |3:30 to 3:45|Break|
 | 3:45 to 4:45| [Data Publishing and CU Scholar](content/data-publishing-CU-scholar.html)| Melissa Cantrell and Matthew Murray
