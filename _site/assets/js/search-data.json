@@ -37,7 +37,7 @@
   },"6": {
     "doc": "1. Background Info",
     "title": "GitHub Pages &amp; Jekyll",
-    "content": ". | What is GitHub Pages? . | Walks through setting up a user/organizational site. | . | . | Jekyll Home &amp; Documentation . | GitHub Pages Supported Themes . | This is helpful if you need to get into the details of a theme or to troubleshoot problems if you’ve switched themes. | . | Remote Themes . | Even more themes for your pages site… | But your mileage may vary when using remote themes. You may want to clone the whole repo rather than adding using the remote_theme option in your _comfig.yml file. | . | Markdown Cheatsheet . | . ",
+    "content": ". | What is GitHub Pages? . | Walks through setting up a user/organizational site. | . | Jekyll Home &amp; Documentation . | GitHub Pages Supported Themes . | This is helpful if you need to get into the details of a theme or to troubleshoot problems if you’ve switched themes. | . | Remote Themes . | Even more themes for your pages site… | But your mileage may vary when using remote themes. You may want to clone the whole repo rather than adding using the remote_theme option in your _comfig.yml file. | . | Markdown Cheatsheet . | . ",
     "url": "http://localhost:4000/data_bootcamp_spring2023/GH_Pages_Materials/GH-Pages-Background-Info.html#github-pages--jekyll",
     "relUrl": "/GH_Pages_Materials/GH-Pages-Background-Info.html#github-pages--jekyll"
   },"7": {
@@ -121,7 +121,7 @@
   },"20": {
     "doc": "Lesson Plan",
     "title": "R Lesson Plan",
-    "content": "If you’d like to access the presentation slide-deck in a separate window, please click here. ",
+    "content": "If you’d like to access the presentation slide-deck in a separate window, please click here. Click the blue button below to download the associated R script: . Download Script. ",
     "url": "http://localhost:4000/data_bootcamp_spring2023/content/data-analysis-in-R/R-lesson-plan.html#r-lesson-plan",
     "relUrl": "/content/data-analysis-in-R/R-lesson-plan.html#r-lesson-plan"
   },"21": {
@@ -313,7 +313,7 @@
   },"52": {
     "doc": "GitHub and GitHub Pages",
     "title": "GitHub and GitHub Pages",
-    "content": "Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop. Presenter . Phil White Earth, Environment &amp; Geospatial Librarian University of Colorado Boulder Libraries philip.white@colorado.edu . | Please create a GitHub account right now if you have yet to do so. | . Goal of this Workshop . The goal of this workshop is to get you started on GitHub Pages. This is not a workshop on Git. We will discuss Git some, but mainly we will focus on GitHub and getting you comfortable with GitHub Pages so you can set up a great looking, free, easy website for your projects or portfolio. Schedule . | Time | Content | . | 10:00 | Introductions | . | 10:05 | Slides: Git/GitHub Background and GH Pages | . | 10:25 | Hands on: Fork it! Spin it! Play! | . | 11:05 | Advanced customization: Themes, running locally, workflows | . | 11:20 | Wrap Up/ Q&amp;A | . Slides . Click on the slides then press the F key for full screen . ",
+    "content": "Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop. Presenter . Phil White Earth, Environment &amp; Geospatial Librarian University of Colorado Boulder Libraries philip.white@colorado.edu . | Please create a GitHub account right now if you have yet to do so. | . Goal of this Workshop . The goal of this workshop is to get you started on GitHub Pages. This is not a workshop on Git. We will discuss Git some, but mainly we will focus on GitHub and getting you comfortable with GitHub Pages so you can set up a great looking, free, easy website for your projects or portfolio. Schedule . | Time | Content | . | 1:00 | Introductions | . | 1:05 | Slides: Git/GitHub Background and GH Pages | . | 1:25 | Hands on: Fork it! Spin it! Play! | . | 2:05 | Advanced customization: Themes, running locally, workflows | . | 2:20 | Wrap Up/ Q&amp;A | . Slides . Click on the slides then press the F key for full screen . ",
     "url": "http://localhost:4000/data_bootcamp_spring2023/content/git_github.html",
     "relUrl": "/content/git_github.html"
   },"53": {
@@ -469,7 +469,7 @@
   },"78": {
     "doc": "Python Foundations",
     "title": "Python Foundations",
-    "content": " ",
+    "content": "Materials for this workshop session are available at this Open Science Foundation repository. ",
     "url": "http://localhost:4000/data_bootcamp_spring2023/content/data-analysis-in-python/python_foundations.html",
     "relUrl": "/content/data-analysis-in-python/python_foundations.html"
   },"79": {

@@ -1,4 +1,4 @@
-I"<h1 id="background-information">Background information</h1>
+I"ú<h1 id="background-information">Background information</h1>
 
 <h2 id="git--github">Git &amp; GitHub</h2>
 <p>First of all, if youâ€™re new to Git and GitHub, here are a few helpful resources.</p>
@@ -36,11 +36,6 @@
       <li>Walks through setting up a user/organizational site.</li>
     </ul>
   </li>
-</ul>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<ul>
   <li>
     <h3 id="jekyll-home--documentation"><a href="https://jekyllrb.com/">Jekyll Home &amp; Documentation</a></h3>
   </li>
