@@ -27,8 +27,6 @@ First of all, if you're new to Git and GitHub, here are a few helpful resources.
 * ### [What is GitHub Pages?](https://pages.github.com/)
   - Walks through setting up a user/organizational site.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
 * ### [Jekyll Home & Documentation](https://jekyllrb.com/)  
 
 * ### [GitHub Pages Supported Themes](https://pages.github.com/themes/)
